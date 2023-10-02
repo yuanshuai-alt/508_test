@@ -26,6 +26,7 @@ from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.optim import Adam, SGD, lr_scheduler
 from tqdm import tqdm
 
+print("sadjihfasinviasnv")
 
 FILE = Path(__file__).resolve()
 ROOT = FILE.parents[0]  # YOLOv5 root directory
